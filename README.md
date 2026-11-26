@@ -13,7 +13,3 @@
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/alexander-src/alexander-src/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
-
-<p align="center">
-  Currently building <a href="https://github.com/alexander-src/oa"><strong>oa</strong></a>: a Rust CLI, MCP server, and GitHub Action for profiling, output-equivalence gating, and interleaved A/B benchmarking (<a href="https://github.com/alexander-src/oa#upstream-prs">16 verified upstream performance PRs</a> across Rust, Python, and C++).
-</p>
